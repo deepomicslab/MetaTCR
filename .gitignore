@@ -1,0 +1,41 @@
+# Exclude LaTeX main file
+metatcr_main.tex
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if you don't want to track data)
+# data/
+# *.pk
+
+# Results/output (optional - uncomment if you don't want to track results)
+# results/
+# *.csv
+# *.png
+# *.pdf
+

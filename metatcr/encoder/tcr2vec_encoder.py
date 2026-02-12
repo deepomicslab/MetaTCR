@@ -15,23 +15,46 @@ def check_model_exist(path_to_TCR2vec = '../../pretrained_models/TCR2vec_120'):
 
     # Check if model and json files exist
     if not os.path.exists(model_file_path) or not os.path.exists(args_file_path) or not os.path.exists(config_file_path):
-        import gdown
         import zipfile
-
+        
         pretrained_path = os.path.dirname(path_to_TCR2vec)
         download_url = 'https://drive.google.com/uc?export=download&id=1Nj0VHpJFTUDx4X7IPQ0OGXKlGVCrwRZl'
         zip_path = os.path.join(pretrained_path, 'tcr2vec_120.zip')
 
-        os.makedirs(pretrained_path, exist_ok=True)
+        print(f"Pretrained model not found at {path_to_TCR2vec}")
+        
+        try:
+            import gdown
+            os.makedirs(pretrained_path, exist_ok=True)
+            print(f"Attempting to download model using gdown from {download_url} to {zip_path}")
+            
+            try:
+                output = gdown.download(download_url, zip_path, quiet=False)
+                # Check if file was actually downloaded (gdown might not raise exception but return None/fail silently)
+                if not output or not os.path.exists(zip_path):
+                     raise Exception("Download failed or file not created.")
 
-        print(f"Downloading model from {download_url} to {zip_path}")
-        gdown.download(download_url, zip_path, quiet=False)
+                print(f"Extracting {zip_path} to {pretrained_path}")
+                with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+                    zip_ref.extractall(pretrained_path)
+                os.remove(zip_path)
+                print(f"TCR encoder model TCR2vec extracted successfully.")
+                
+            except Exception as e:
+                print(f"\nAutomatic download failed: {e}")
+                print(f"Please manually download the model from: {download_url}")
+                print(f"And place/extract it to: {pretrained_path}")
+                if os.path.exists(zip_path): # clean up partial download
+                    os.remove(zip_path)
+                # We raise an error here because the model is required for the next steps
+                raise RuntimeError("Model download failed. Manual download required.")
 
-        print(f"Extracting {zip_path} to {pretrained_path}")
-        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            zip_ref.extractall(pretrained_path)
-        os.remove(zip_path)
-        print(f"TCR encoder model TCR2vec extracted successfully.")
+        except ImportError:
+            print(f"\nThe 'gdown' package is not installed for automatic downloading.")
+            print(f"Please manually download the model from: {download_url}")
+            print(f"And place/extract it to: {pretrained_path}")
+            print(f"Alternatively, install gdown (pip install gdown) to try automatic download.")
+            raise RuntimeError("Model not found and gdown not installed. Manual download required.")
     else:
         print(f"loading TCR2vec encoder...")
 

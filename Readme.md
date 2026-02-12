@@ -26,20 +26,14 @@ The MetaTCR framework consists of four main stages:
 
 ### Dependencies
 
-Before installing MetaTCR, ensure you have the following dependencies installed:
+Most dependencies are handled automatically by `setup.py`. However, you must install PyTorch manually according to your CUDA version.
 
-```
-tqdm
-scipy
-biopython
-matplotlib
-torch >= 1.1.0 (tested on 1.7.1)
-pandas
-numpy
-sklearn
-tape_proteins
-faiss-gpu
-```
+- **PyTorch**: >= 1.9.1 (We tested on 1.9 and 1.13)
+  - Please install the appropriate version for your system from [pytorch.org](https://pytorch.org/).
+
+Other dependencies (automatically installed):
+- numpy, pandas, scipy, sklearn, matplotlib, seaborn, tqdm
+- tape_proteins, faiss-gpu, umap-learn, configargparse, biopython, etc.
 
 ### Install MetaTCR
 
@@ -69,15 +63,15 @@ This repository includes:
 - Meta-vector representations of repertoires
 - Other intermediate analysis results
 
-### Data File Organization
+### Download Requirements
 
-For downloaded or generated data files, we recommend the following directory structure:
+Depending on where you start in the pipeline, different files are required from Zenodo:
 
-- **Dataset files** (`.pk` files from Zenodo or generated via `step2`): Store in `./data/processed_data/datasets_mtx_1024/`
-  - Example: `./data/processed_data/datasets_mtx_1024/Huth2019.pk`
-
-- **Centroid files** (from Zenodo or generated via `step1`): Store in `./data/processed_data/`
-  - Example: `./data/processed_data/spectral_centroids/centroid_mapping_spectral_k96.pk`
+| Starting Step | Required File | Path to Place | Note |
+| :--- | :--- | :--- | :--- |
+| **Step 1: Clustering** | `TCR_reference_database.full_length.txt` | `./data/raw_data/` | Only needed if you want to reconstruct the reference database from scratch. |
+| **Step 2: Encoding** | (None) | - | We already provide pre-computed centroids at `./data/processed_data/`. You only need your own repertoire files. |
+| **Step 3/4: Analysis** | `*.pk` (Encoded datasets) | `./data/processed_data/datasets_mtx_1024/` | Needed if you want to replicate our analysis results directly. |
 
 For detailed information about data files, please refer to the Zenodo repository.
 
@@ -123,6 +117,8 @@ pretrained_models/TCR2vec_120/
 **Model Download**: The pre-trained TCR2vec model can be downloaded from:
 - **Google Drive**: https://drive.google.com/file/d/1Nj0VHpJFTUDx4X7IPQ0OGXKlGVCrwRZl/view?usp=sharing
 
+*Note: The code supports automatic downloading if the model is missing. To use this feature, please install `gdown` (`pip install gdown`). Otherwise, you can download the model manually from the link above.*
+
 **Model Source**: The TCR2vec model is based on the work from:
 - **GitHub Repository**: https://github.com/jiangdada1221/TCR2vec
 
@@ -137,21 +133,31 @@ For more details about the TCR2vec model, please refer to the README in `pretrai
 
 ### Basic Workflow
 
-1. **Generate TCR Functional Clusters** (if not using pre-computed centroids):
-```bash
-python step1.generate_TCR_functional_clusters.py
-```
+You can start from any step depending on your needs. For most users encoding their own data, **start from Step 2** using the provided pre-computed centroids.
 
-2. **Encode Repertoires to Meta-vectors**:
+1. **Step 1: Generate TCR Functional Clusters** (Optional)
+   
+   *Only required if you want to build a custom reference database from scratch.*
+   ```bash
+   python step1.generate_TCR_functional_clusters.py
+   ```
+
+2. **Step 2: Encode Repertoires to Meta-vectors**
+
+   Use the pre-computed centroids (included in `./data/processed_data/`) to encode your own repertoire data.
+
 
    **For unlabeled data** (no positive/negative labels):
+
+   The script automatically searches for all repertoire files (`.tsv`) in the directory and subdirectories. The generated MetaTCR dictionary will not contain positive/negative labels.
+
    ```bash
-   python step2.0.dataset_to_meta_matrix.py --unlabeled_dir data/repertoire_data/Martinez2025 --dataset_name Martinez2025 --tcr2vec_path ./pretrained_models/TCR2vec_120
+   python step2.rawdata_to_meta_encoding.py --unlabeled_dir demo_data/Emerson2017_demo --dataset_name Emerson2017_demo --tcr2vec_path ./pretrained_models/TCR2vec_120
    ```
 
    **For labeled data** (with separate positive and negative sample paths):
    ```bash
-   python step2.0.dataset_to_meta_matrix.py --pos_dir data/repertoire_data/Liu2019/SLE --neg_dir data/repertoire_data/Liu2019/Control --dataset_name Liu2019 --tcr2vec_path ./pretrained_models/TCR2vec_120
+   python step2.rawdata_to_meta_encoding.py --pos_dir demo_data/Emerson2017_demo/CMVpos/ --neg_dir demo_data/Emerson2017_demo/CMVneg/ --dataset_name Emerson2017_demo --tcr2vec_path ./pretrained_models/TCR2vec_120
    ```
 
 3. **Measure Quantitative Metrics**:

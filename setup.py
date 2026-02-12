@@ -42,7 +42,6 @@ setup(
         "tape_proteins==0.5",
         "faiss-gpu==1.7.1",
         "GitPython==3.1.13",
-        "googledrivedownloader>=0.4",
         "seaborn==0.12.1",
         "umap-learn",
         "configargparse"

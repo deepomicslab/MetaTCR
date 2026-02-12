@@ -170,11 +170,6 @@ python step3.measure_quantitative_metrics.py
 python step4.correct_batch_effect.py
 ```
 
-For detailed usage instructions and parameter descriptions, please refer to the individual script help messages:
-```bash
-python step2.rawdata_to_meta_encoding.py --help
-```
-
 ## Citation
 
 If you use MetaTCR in your research, please cite:

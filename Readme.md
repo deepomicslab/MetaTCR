@@ -44,7 +44,7 @@ pip install cython==3.1.5
 
 2. Install MetaTCR package:
 ```bash
-cd /path/to/metatcr_code
+cd /path/to/MetaTCR
 pip install .
 ```
 

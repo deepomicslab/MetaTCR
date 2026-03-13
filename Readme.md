@@ -147,7 +147,7 @@ You can start from any step depending on your needs. For most users encoding the
 
 2. **Step 2: Encode Repertoires to Meta-vectors**
 
-   Use the pre-computed centroids (included in `./data/processed_data/`) to encode your own repertoire data.
+   Use the pre-computed centroids (included in `./data/processed_data/`) to encode your own repertoire data. This will generate a .pk file containing the meta-vectors in the output directory. The demo takes approximately 1~3 minutes to run on a standard desktop with a GPU.
 
 
    **For unlabeled data** (no positive/negative labels):

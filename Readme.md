@@ -1,6 +1,8 @@
 # MetaTCR: A Framework for Analyzing Batch Effects in TCR Repertoire Datasets
 
-MetaTCR is a computational framework designed to standardize disparate T-cell Receptor (TCR) repertoires and systematically correct for batch effects to enable robust downstream analysis. The framework transforms variable-length TCR repertoire data into fixed-dimensional meta-vectors by projecting individual repertoires onto a standardized reference space, facilitating large-scale integration and batch correction.
+MetaTCR is a computational framework designed to standardize disparate T-cell Receptor (TCR) repertoires and systematically correct for batch effects to enable robust downstream analysis. The framework transforms variable-length TCR repertoire data into fixed-dimensional meta-vectors by projecting individual repertoires onto a standardized reference space, facilitating large-scale integration and batch correction. 
+
+Main scripts required to reproduce the experiments and analyses are hosted at this [repository: MetaTCR_exp_scripts](https://github.com/deepomicslab/MetaTCR_exp_scripts).
 
 ## Framework Overview
 
@@ -52,6 +54,7 @@ Alternatively, you can install directly from the source:
 ```bash
 pip install -e .
 ```
+Typical installation time is about 2-10 minutes, depending on network speed.
 
 ## Data Availability
 

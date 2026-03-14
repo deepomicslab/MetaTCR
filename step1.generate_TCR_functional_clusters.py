@@ -12,7 +12,7 @@ import random
 random.seed(1)
 
 parser = configargparse.ArgumentParser()
-parser.add_argument('--database_file', type=str, default='./data/TCR_reference_database.full_legnth.txt', help='Tcr list as reference database')
+parser.add_argument('--database_file', type=str, default='./data/TCR_reference_database.full_length.txt', help='Tcr list as reference database')
 parser.add_argument('--out_dir', type=str, default='./data/processed_data', help='Output directory for processed data')
 parser.add_argument('--primary_k', type=int, default=1024, help='Number of clusters for k-means clustering')
 parser.add_argument('--pretrained_model', type=str, default='./pretrained_models/TCR2vec_120', help='Path to the pretrained TCR2vec model')

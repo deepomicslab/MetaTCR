@@ -1,0 +1,21 @@
+sample_id,patient_id,label,disease,clinical_status,protocol_family
+Ye2020_LN010-10,LN010-10,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-11,LN010-11,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-2,LN010-2,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-3,LN010-3,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-4,LN010-4,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-5,LN010-5,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-6,LN010-6,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-7,LN010-7,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-8,LN010-8,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_LN010-9,LN010-9,SLE with lupus nephritis,lupus nephritis/SLE and healthy,SLE with lupus nephritis,RNA_MULTIPLEX
+Ye2020_control_001,control_001,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_002,control_002,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_003,control_003,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_004,control_004,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_005,control_005,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_006,control_006,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_007,control_007,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_008,control_008,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_009,control_009,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX
+Ye2020_control_010,control_010,healthy control,lupus nephritis/SLE and healthy,healthy control,RNA_MULTIPLEX

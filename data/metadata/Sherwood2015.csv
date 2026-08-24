@@ -1,0 +1,40 @@
+sample_id,patient_id,label,disease,clinical_status,cell_subset,sex,age,time_point,protocol_family
+Subject01-110316_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 00,GDNA_MULTIPLEX
+Subject01-110415_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 01,GDNA_MULTIPLEX
+Subject01-110512_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 02,GDNA_MULTIPLEX
+Subject01-110609_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 03,GDNA_MULTIPLEX
+Subject01-110819_Memory,Subject01,healthy,healthy longitudinal cohort,healthy,Memory T cells,female,18-24 Years (Early Adulthood),Month 05,GDNA_MULTIPLEX
+Subject01-110819_Naive,Subject01,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,18-24 Years (Early Adulthood),Month 05,GDNA_MULTIPLEX
+Subject01-110819_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 05,GDNA_MULTIPLEX
+Subject01-110915_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 06,GDNA_MULTIPLEX
+Subject01-110916_Memory,Subject01,healthy,healthy longitudinal cohort,healthy,Memory T cells,female,18-24 Years (Early Adulthood),Month 06,GDNA_MULTIPLEX
+Subject01-110916_Naive,Subject01,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,18-24 Years (Early Adulthood),Month 06,GDNA_MULTIPLEX
+Subject01-111014_Naive,Subject01,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,18-24 Years (Early Adulthood),Month 07,GDNA_MULTIPLEX
+Subject01-111014_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 07,GDNA_MULTIPLEX
+Subject01-120320_PBMC,Subject01,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 13,GDNA_MULTIPLEX
+Subject02-110317_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 00,GDNA_MULTIPLEX
+Subject02-110415_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 01,GDNA_MULTIPLEX
+Subject02-110513_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 02,GDNA_MULTIPLEX
+Subject02-110609_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 03,GDNA_MULTIPLEX
+Subject02-110811_Memory,Subject02,healthy,healthy longitudinal cohort,healthy,Memory T cells,female,18-24 Years (Early Adulthood),Month 05,GDNA_MULTIPLEX
+Subject02-110811_Naive,Subject02,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,18-24 Years (Early Adulthood),Month 05,GDNA_MULTIPLEX
+Subject02-110811_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 05,GDNA_MULTIPLEX
+Subject02-110908_Memory,Subject02,healthy,healthy longitudinal cohort,healthy,Memory T cells,female,18-24 Years (Early Adulthood),Month 06,GDNA_MULTIPLEX
+Subject02-110908_Naive,Subject02,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,18-24 Years (Early Adulthood),Month 06,GDNA_MULTIPLEX
+Subject02-110908_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 06,GDNA_MULTIPLEX
+Subject02-111006_Naive,Subject02,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,18-24 Years (Early Adulthood),Month 07,GDNA_MULTIPLEX
+Subject02-111006_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 07,GDNA_MULTIPLEX
+Subject02-120327_PBMC,Subject02,healthy,healthy longitudinal cohort,healthy,PBMC,female,18-24 Years (Early Adulthood),Month 13,GDNA_MULTIPLEX
+Subject03-110316_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 00,GDNA_MULTIPLEX
+Subject03-110415_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 01,GDNA_MULTIPLEX
+Subject03-110513_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 02,GDNA_MULTIPLEX
+Subject03-110609_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 03,GDNA_MULTIPLEX
+Subject03-110812_Memory,Subject03,healthy,healthy longitudinal cohort,healthy,Memory T cells,female,24-45 Years (Middle Adulthood),Month 05,GDNA_MULTIPLEX
+Subject03-110812_Naive,Subject03,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,24-45 Years (Middle Adulthood),Month 05,GDNA_MULTIPLEX
+Subject03-110812_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 05,GDNA_MULTIPLEX
+Subject03-110909_Memory,Subject03,healthy,healthy longitudinal cohort,healthy,Memory T cells,female,24-45 Years (Middle Adulthood),Month 06,GDNA_MULTIPLEX
+Subject03-110909_Naive,Subject03,healthy,healthy longitudinal cohort,healthy,Naive T cells,female,24-45 Years (Middle Adulthood),Month 06,GDNA_MULTIPLEX
+Subject03-110909_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 06,GDNA_MULTIPLEX
+Subject03-111007_Memory,Subject03,healthy,healthy longitudinal cohort,healthy,Memory T cells,female,24-45 Years (Middle Adulthood),Month 07,GDNA_MULTIPLEX
+Subject03-111007_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 07,GDNA_MULTIPLEX
+Subject03-120403_PBMC,Subject03,healthy,healthy longitudinal cohort,healthy,PBMC,female,24-45 Years (Middle Adulthood),Month 13,GDNA_MULTIPLEX

@@ -1,0 +1,47 @@
+sample_id,patient_id,label,disease,clinical_status,cohort,timepoint,treatment,protocol_family
+Heather2015_HV01_visit1,HV01,healthy control,HIV infection and healthy controls,healthy control,healthy,visit 1,,RNA_5RACE
+Heather2015_HV01_visit2_month3,HV01,healthy control,HIV infection and healthy controls,healthy control,healthy,"visit 2, month 3",,RNA_5RACE
+Heather2015_HV02_visit1,HV02,healthy control,HIV infection and healthy controls,healthy control,healthy,visit 1,,RNA_5RACE
+Heather2015_HV02_visit2_month3,HV02,healthy control,HIV infection and healthy controls,healthy control,healthy,"visit 2, month 3",,RNA_5RACE
+Heather2015_HV03_visit1,HV03,healthy control,HIV infection and healthy controls,healthy control,healthy,visit 1,,RNA_5RACE
+Heather2015_HV03_visit2_month3,HV03,healthy control,HIV infection and healthy controls,healthy control,healthy,"visit 2, month 3",,RNA_5RACE
+Heather2015_HV04_visit1,HV04,healthy control,HIV infection and healthy controls,healthy control,healthy,visit 1,,RNA_5RACE
+Heather2015_HV04_visit2_month3,HV04,healthy control,HIV infection and healthy controls,healthy control,healthy,"visit 2, month 3",,RNA_5RACE
+Heather2015_HV07_single_visit,HV07,healthy control,HIV infection and healthy controls,healthy control,healthy,single visit,,RNA_5RACE
+Heather2015_HV08_single_visit,HV08,healthy control,HIV infection and healthy controls,healthy control,healthy,single visit,,RNA_5RACE
+Heather2015_HV09_single_visit,HV09,healthy control,HIV infection and healthy controls,healthy control,healthy,single visit,,RNA_5RACE
+Heather2015_HV10_single_visit,HV10,healthy control,HIV infection and healthy controls,healthy control,healthy,single visit,,RNA_5RACE
+Heather2015_HV11_single_visit,HV11,healthy control,HIV infection and healthy controls,healthy control,healthy,single visit,,RNA_5RACE
+Heather2015_HV13_single_visit,HV13,healthy control,HIV infection and healthy controls,healthy control,healthy,single visit,,RNA_5RACE
+Heather2015_P002_postART14wk,P002,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P002_preART,P002,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P003_postART14wk,P003,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P003_preART,P003,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P004_postART14wk,P004,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P004_preART,P004,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P005_postART14wk,P005,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P005_preART,P005,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P006_postART14wk,P006,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P006_preART,P006,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P008_postART14wk,P008,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P008_preART,P008,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P012_postART14wk,P012,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P012_preART,P012,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P013_postART14wk,P013,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P013_preART,P013,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P014_postART14wk,P014,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P014_preART,P014,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P015_postART14wk,P015,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P015_preART,P015,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P016_postART14wk,P016,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P016_preART,P016,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P017_postART14wk,P017,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P017_preART,P017,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P021_postART14wk,P021,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P021_preART,P021,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P022_postART14wk,P022,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P022_preART,P022,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P027_postART14wk,P027,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P027_preART,P027,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE
+Heather2015_P029_postART14wk,P029,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,post-ART approximately 14 weeks,ART approximately 14 weeks,RNA_5RACE
+Heather2015_P029_preART,P029,HIV-positive,HIV infection and healthy controls,HIV-positive,HIV,pre-ART,ART-naive,RNA_5RACE

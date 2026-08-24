@@ -1,0 +1,60 @@
+# ===================== Python =====================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Ship the prebuilt mnnpy Cython extension (see setup.py package_data);
+# ignore every other compiled object.
+*.so
+!metatcr/integration/mnnpy/*.so
+
+# ===================== OS / editor / logs =====================
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*~
+*.log
+
+# ===================== Pretrained model =====================
+# The TCR2vec model is downloaded automatically; keep only pretrained_models/README.md
+pretrained_models/TCR2vec_120/
+
+# ===================== Large data (hosted on Zenodo, not in git) =====================
+# In-repo we keep only the small, ready-to-use artifacts: the 1024 primary centroids,
+# the primary->functional cluster mappings, the antigen-validation set (data/antigen/),
+# the per-study metadata (data/metadata/), and data/README.md.
+data/database/
+data/reference_database/
+data/repertoire_data/
+data/processed_data/datasets_mtx_1024_downstream/
+data/processed_data/datasets_mtx_1024_selected_ref/
+data/processed_data/datasets_mtx_1024_whole_ref/
+data/processed_data/primary_k1024/*
+!data/processed_data/primary_k1024/1024_primary_centroids.pk
+data/processed_data/*.bak.zip
+data/manifests/
+data/achieved/
+data/external_signatures/
+# raw per-sample metadata (superset with extra columns / archived subdirs);
+# the cleaned data/metadata/ is published instead
+data/raw_metadata/
+
+# ===================== Not part of the code package =====================
+# Experiment scripts live in a separate repository; internal/working dirs are not published.
+/fig_scripts/
+/fig_scripts_v2/
+/fig_script_v2_github/
+/scripts/
+/results/
+/results_v3bak/
+/demo_result/
+/new_datasets/
+/new_database_docs/
+/agent_docs/
+/scratchpad/
+/_archive/

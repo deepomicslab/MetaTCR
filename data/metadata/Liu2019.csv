@@ -1,0 +1,1313 @@
+sample_id,patient_id,label,disease,clinical_status,protocol_family
+F_20_B_D1900583948,F_20_B_D1900583948,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_21_B_D1900416965,F_21_B_D1900416965,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_21_B_D1900426932,F_21_B_D1900426932,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_22_B_D1900416038,F_22_B_D1900416038,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_22_B_D1900580780,F_22_B_D1900580780,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_22_B_D1900639317,F_22_B_D1900639317,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_22_B_D1900639789,F_22_B_D1900639789,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_22_B_D1900641418,F_22_B_D1900641418,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900425874,F_23_B_D1900425874,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900435741,F_23_B_D1900435741,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900435774,F_23_B_D1900435774,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900490028,F_23_B_D1900490028,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900493384,F_23_B_D1900493384,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900496330,F_23_B_D1900496330,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900583800,F_23_B_D1900583800,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900584448,F_23_B_D1900584448,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900585119,F_23_B_D1900585119,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900586017,F_23_B_D1900586017,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900588146,F_23_B_D1900588146,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900638422,F_23_B_D1900638422,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900639744,F_23_B_D1900639744,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900640308,F_23_B_D1900640308,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900640323,F_23_B_D1900640323,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_23_B_D1900643077,F_23_B_D1900643077,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900416976,F_24_B_D1900416976,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900433487,F_24_B_D1900433487,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900490026,F_24_B_D1900490026,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900490072,F_24_B_D1900490072,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900497120,F_24_B_D1900497120,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900497773,F_24_B_D1900497773,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900583788,F_24_B_D1900583788,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900586076,F_24_B_D1900586076,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900586873,F_24_B_D1900586873,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900590138,F_24_B_D1900590138,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900636628,F_24_B_D1900636628,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900636639,F_24_B_D1900636639,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900639720,F_24_B_D1900639720,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_24_B_D1900640377,F_24_B_D1900640377,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900435760,F_25_B_D1900435760,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900493323,F_25_B_D1900493323,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900497776,F_25_B_D1900497776,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900579294,F_25_B_D1900579294,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900579344,F_25_B_D1900579344,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900579350,F_25_B_D1900579350,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900580706,F_25_B_D1900580706,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900584470,F_25_B_D1900584470,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900585099,F_25_B_D1900585099,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900585708,F_25_B_D1900585708,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900585719,F_25_B_D1900585719,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900585760,F_25_B_D1900585760,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900586863,F_25_B_D1900586863,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900588190,F_25_B_D1900588190,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900636947,F_25_B_D1900636947,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900639185,F_25_B_D1900639185,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900641254,F_25_B_D1900641254,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900641602,F_25_B_D1900641602,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900641606,F_25_B_D1900641606,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_25_B_D1900643090,F_25_B_D1900643090,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900416011,F_26_B_D1900416011,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900416998,F_26_B_D1900416998,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900427174,F_26_B_D1900427174,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900435747,F_26_B_D1900435747,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900435767,F_26_B_D1900435767,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900490004,F_26_B_D1900490004,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900495534,F_26_B_D1900495534,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900578536,F_26_B_D1900578536,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900578550,F_26_B_D1900578550,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900579252,F_26_B_D1900579252,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900583893,F_26_B_D1900583893,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900585717,F_26_B_D1900585717,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900586033,F_26_B_D1900586033,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900586060,F_26_B_D1900586060,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900634413,F_26_B_D1900634413,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900636619,F_26_B_D1900636619,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900636697,F_26_B_D1900636697,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900638418,F_26_B_D1900638418,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900639143,F_26_B_D1900639143,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900639186,F_26_B_D1900639186,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900639303,F_26_B_D1900639303,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900639382,F_26_B_D1900639382,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900639757,F_26_B_D1900639757,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900639771,F_26_B_D1900639771,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900640317,F_26_B_D1900640317,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_26_B_D1900641463,F_26_B_D1900641463,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900426999,F_27_B_D1900426999,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900427025,F_27_B_D1900427025,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900493349,F_27_B_D1900493349,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900496311,F_27_B_D1900496311,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900497960,F_27_B_D1900497960,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900580514,F_27_B_D1900580514,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900581316,F_27_B_D1900581316,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900583888,F_27_B_D1900583888,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900584469,F_27_B_D1900584469,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900585791,F_27_B_D1900585791,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900586856,F_27_B_D1900586856,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900588119,F_27_B_D1900588119,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900588164,F_27_B_D1900588164,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900634448,F_27_B_D1900634448,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900634475,F_27_B_D1900634475,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900636637,F_27_B_D1900636637,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900636942,F_27_B_D1900636942,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900636983,F_27_B_D1900636983,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_27_B_D1900641680,F_27_B_D1900641680,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900426973,F_28_B_D1900426973,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900427076,F_28_B_D1900427076,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900427143,F_28_B_D1900427143,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900433672,F_28_B_D1900433672,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900435106,F_28_B_D1900435106,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900490089,F_28_B_D1900490089,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900492942,F_28_B_D1900492942,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900497938,F_28_B_D1900497938,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900497954,F_28_B_D1900497954,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900579347,F_28_B_D1900579347,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900580622,F_28_B_D1900580622,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900580629,F_28_B_D1900580629,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900583998,F_28_B_D1900583998,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900585789,F_28_B_D1900585789,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900588138,F_28_B_D1900588138,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900589929,F_28_B_D1900589929,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900590179,F_28_B_D1900590179,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900636961,F_28_B_D1900636961,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900636978,F_28_B_D1900636978,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900639169,F_28_B_D1900639169,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900641471,F_28_B_D1900641471,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_28_B_D1900643097,F_28_B_D1900643097,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900435710,F_29_B_D1900435710,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900489860,F_29_B_D1900489860,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900493376,F_29_B_D1900493376,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900497745,F_29_B_D1900497745,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900581419,F_29_B_D1900581419,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900583889,F_29_B_D1900583889,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900583894,F_29_B_D1900583894,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900583915,F_29_B_D1900583915,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900584424,F_29_B_D1900584424,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900584462,F_29_B_D1900584462,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900585745,F_29_B_D1900585745,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900585782,F_29_B_D1900585782,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900588149,F_29_B_D1900588149,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900588199,F_29_B_D1900588199,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900590153,F_29_B_D1900590153,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900591133,F_29_B_D1900591133,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900591157,F_29_B_D1900591157,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900636904,F_29_B_D1900636904,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900638453,F_29_B_D1900638453,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900638492,F_29_B_D1900638492,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900639117,F_29_B_D1900639117,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900639142,F_29_B_D1900639142,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900641281,F_29_B_D1900641281,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_29_B_D1900643023,F_29_B_D1900643023,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900416055,F_30_B_D1900416055,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900427014,F_30_B_D1900427014,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900435773,F_30_B_D1900435773,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900497915,F_30_B_D1900497915,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900579386,F_30_B_D1900579386,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900581363,F_30_B_D1900581363,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900583757,F_30_B_D1900583757,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900585743,F_30_B_D1900585743,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900589974,F_30_B_D1900589974,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900590127,F_30_B_D1900590127,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900590822,F_30_B_D1900590822,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900591176,F_30_B_D1900591176,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900636632,F_30_B_D1900636632,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900636642,F_30_B_D1900636642,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900638459,F_30_B_D1900638459,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900639739,F_30_B_D1900639739,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900640304,F_30_B_D1900640304,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900640355,F_30_B_D1900640355,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_30_B_D1900643050,F_30_B_D1900643050,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900578554,F_31_B_D1900578554,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900579105,F_31_B_D1900579105,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900583782,F_31_B_D1900583782,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900583921,F_31_B_D1900583921,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900584481,F_31_B_D1900584481,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900585799,F_31_B_D1900585799,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900586015,F_31_B_D1900586015,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900634457,F_31_B_D1900634457,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900638454,F_31_B_D1900638454,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900640380,F_31_B_D1900640380,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_31_B_D1900643095,F_31_B_D1900643095,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_32_B_D1900435142,F_32_B_D1900435142,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_32_B_D1900436973,F_32_B_D1900436973,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_32_B_D1900493361,F_32_B_D1900493361,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_32_B_D1900580691,F_32_B_D1900580691,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_32_B_D1900636694,F_32_B_D1900636694,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_33_B_D1900425863,F_33_B_D1900425863,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_33_B_D1900590115,F_33_B_D1900590115,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_33_B_D1900639707,F_33_B_D1900639707,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_34_B_D1900435754,F_34_B_D1900435754,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_34_B_D1900588179,F_34_B_D1900588179,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_34_B_D1900636906,F_34_B_D1900636906,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_34_B_D1900641673,F_34_B_D1900641673,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_35_B_D1900581337,F_35_B_D1900581337,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_35_B_D1900591182,F_35_B_D1900591182,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_35_B_D1900638456,F_35_B_D1900638456,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_35_B_D1900641252,F_35_B_D1900641252,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_36_B_D1900638443,F_36_B_D1900638443,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_37_B_D1900427041,F_37_B_D1900427041,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_38_B_D1900638434,F_38_B_D1900638434,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_38_B_D1900641677,F_38_B_D1900641677,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_41_B_D1900489900,F_41_B_D1900489900,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_41_B_D1900580607,F_41_B_D1900580607,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_42_B_D1900435764,F_42_B_D1900435764,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_42_B_D1900640363,F_42_B_D1900640363,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_43_B_D1900638423,F_43_B_D1900638423,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_47_B_D1900639118,F_47_B_D1900639118,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+F_70_B_D1900416074,F_70_B_D1900416074,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_20_B_D1900495771,M_20_B_D1900495771,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_21_B_D1900435166,M_21_B_D1900435166,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_21_B_D1900489570,M_21_B_D1900489570,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_22_B_D1900489556,M_22_B_D1900489556,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_22_B_D1900494602,M_22_B_D1900494602,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_22_B_D1900497727,M_22_B_D1900497727,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_22_B_D1900579243,M_22_B_D1900579243,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_22_B_D1900579351,M_22_B_D1900579351,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_22_B_D1900579365,M_22_B_D1900579365,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900436969,M_23_B_D1900436969,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900489494,M_23_B_D1900489494,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900490634,M_23_B_D1900490634,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900493313,M_23_B_D1900493313,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900578540,M_23_B_D1900578540,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900579354,M_23_B_D1900579354,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900583806,M_23_B_D1900583806,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_23_B_D1900590183,M_23_B_D1900590183,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900427070,M_24_B_D1900427070,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900435172,M_24_B_D1900435172,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900436976,M_24_B_D1900436976,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900489464,M_24_B_D1900489464,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900489524,M_24_B_D1900489524,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900489525,M_24_B_D1900489525,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900493339,M_24_B_D1900493339,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900495713,M_24_B_D1900495713,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900497941,M_24_B_D1900497941,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900497955,M_24_B_D1900497955,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900583756,M_24_B_D1900583756,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900583918,M_24_B_D1900583918,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900584461,M_24_B_D1900584461,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900639173,M_24_B_D1900639173,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900641255,M_24_B_D1900641255,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900641426,M_24_B_D1900641426,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_24_B_D1900647126,M_24_B_D1900647126,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900435163,M_25_B_D1900435163,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900435170,M_25_B_D1900435170,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900490064,M_25_B_D1900490064,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900497726,M_25_B_D1900497726,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900578516,M_25_B_D1900578516,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900579125,M_25_B_D1900579125,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900580619,M_25_B_D1900580619,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900583922,M_25_B_D1900583922,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900636653,M_25_B_D1900636653,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900639370,M_25_B_D1900639370,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900640393,M_25_B_D1900640393,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900641632,M_25_B_D1900641632,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900641689,M_25_B_D1900641689,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_25_B_D1900643062,M_25_B_D1900643062,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900416963,M_26_B_D1900416963,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900426964,M_26_B_D1900426964,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900427089,M_26_B_D1900427089,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900427153,M_26_B_D1900427153,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900490696,M_26_B_D1900490696,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900492282,M_26_B_D1900492282,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900493333,M_26_B_D1900493333,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900495125,M_26_B_D1900495125,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900495372,M_26_B_D1900495372,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900579235,M_26_B_D1900579235,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900579338,M_26_B_D1900579338,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900580724,M_26_B_D1900580724,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900581392,M_26_B_D1900581392,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900583768,M_26_B_D1900583768,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900584497,M_26_B_D1900584497,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900585767,M_26_B_D1900585767,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900585773,M_26_B_D1900585773,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900636615,M_26_B_D1900636615,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900639159,M_26_B_D1900639159,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900639182,M_26_B_D1900639182,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_26_B_D1900641436,M_26_B_D1900641436,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900427020,M_27_B_D1900427020,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900427115,M_27_B_D1900427115,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900433446,M_27_B_D1900433446,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900433698,M_27_B_D1900433698,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900489444,M_27_B_D1900489444,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900489600,M_27_B_D1900489600,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900490068,M_27_B_D1900490068,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900492211,M_27_B_D1900492211,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900494631,M_27_B_D1900494631,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900495730,M_27_B_D1900495730,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900497959,M_27_B_D1900497959,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900579262,M_27_B_D1900579262,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900580540,M_27_B_D1900580540,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900580773,M_27_B_D1900580773,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900581302,M_27_B_D1900581302,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900581313,M_27_B_D1900581313,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900583703,M_27_B_D1900583703,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900584474,M_27_B_D1900584474,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900588176,M_27_B_D1900588176,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900589933,M_27_B_D1900589933,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900590117,M_27_B_D1900590117,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900634477,M_27_B_D1900634477,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900636636,M_27_B_D1900636636,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900638451,M_27_B_D1900638451,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900640385,M_27_B_D1900640385,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_27_B_D1900641249,M_27_B_D1900641249,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900488863,M_28_B_D1900488863,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900497747,M_28_B_D1900497747,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900497917,M_28_B_D1900497917,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900497970,M_28_B_D1900497970,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900578541,M_28_B_D1900578541,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900579219,M_28_B_D1900579219,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900580519,M_28_B_D1900580519,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900580668,M_28_B_D1900580668,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900580704,M_28_B_D1900580704,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900583734,M_28_B_D1900583734,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900583956,M_28_B_D1900583956,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900584452,M_28_B_D1900584452,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900585727,M_28_B_D1900585727,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900589988,M_28_B_D1900589988,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900590139,M_28_B_D1900590139,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900590165,M_28_B_D1900590165,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900636674,M_28_B_D1900636674,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900638414,M_28_B_D1900638414,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_28_B_D1900641483,M_28_B_D1900641483,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900416023,M_29_B_D1900416023,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900425820,M_29_B_D1900425820,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900490090,M_29_B_D1900490090,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900492295,M_29_B_D1900492295,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900493301,M_29_B_D1900493301,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900578510,M_29_B_D1900578510,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900578555,M_29_B_D1900578555,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900586088,M_29_B_D1900586088,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900634466,M_29_B_D1900634466,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900636952,M_29_B_D1900636952,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900636971,M_29_B_D1900636971,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900638437,M_29_B_D1900638437,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900641258,M_29_B_D1900641258,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900643012,M_29_B_D1900643012,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_29_B_D1900652890,M_29_B_D1900652890,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900416044,M_30_B_D1900416044,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900426950,M_30_B_D1900426950,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900435173,M_30_B_D1900435173,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900489504,M_30_B_D1900489504,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900497780,M_30_B_D1900497780,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900579134,M_30_B_D1900579134,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900584418,M_30_B_D1900584418,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900586850,M_30_B_D1900586850,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900589049,M_30_B_D1900589049,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900590155,M_30_B_D1900590155,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_30_B_D1900639359,M_30_B_D1900639359,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900495171,M_31_B_D1900495171,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900580697,M_31_B_D1900580697,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900583764,M_31_B_D1900583764,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900584477,M_31_B_D1900584477,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900586009,M_31_B_D1900586009,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900591145,M_31_B_D1900591145,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900636604,M_31_B_D1900636604,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900638482,M_31_B_D1900638482,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_31_B_D1900639782,M_31_B_D1900639782,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900435782,M_32_B_D1900435782,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900494652,M_32_B_D1900494652,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900579241,M_32_B_D1900579241,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900579272,M_32_B_D1900579272,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900583792,M_32_B_D1900583792,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900585701,M_32_B_D1900585701,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900634487,M_32_B_D1900634487,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_32_B_D1900639395,M_32_B_D1900639395,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900425857,M_33_B_D1900425857,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900581487,M_33_B_D1900581487,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900583823,M_33_B_D1900583823,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900585742,M_33_B_D1900585742,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900589970,M_33_B_D1900589970,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900591139,M_33_B_D1900591139,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900634478,M_33_B_D1900634478,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900636695,M_33_B_D1900636695,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_33_B_D1900636991,M_33_B_D1900636991,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_34_B_D1900488806,M_34_B_D1900488806,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_34_B_D1900580560,M_34_B_D1900580560,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_34_B_D1900589063,M_34_B_D1900589063,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_34_B_D1900634418,M_34_B_D1900634418,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_35_B_D1900634481,M_35_B_D1900634481,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_36_B_D1900494801,M_36_B_D1900494801,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_36_B_D1900495170,M_36_B_D1900495170,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_36_B_D1900578576,M_36_B_D1900578576,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_36_B_D1900589931,M_36_B_D1900589931,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_36_B_D1900636655,M_36_B_D1900636655,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_36_B_D1900636688,M_36_B_D1900636688,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_37_B_D1900493343,M_37_B_D1900493343,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_37_B_D1900579130,M_37_B_D1900579130,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_39_B_D1900494830,M_39_B_D1900494830,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_39_B_D1900494863,M_39_B_D1900494863,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_39_B_D1900579180,M_39_B_D1900579180,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_40_B_D1900585162,M_40_B_D1900585162,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_40_B_D1900641654,M_40_B_D1900641654,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_44_B_D1900416959,M_44_B_D1900416959,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_44_B_D1900641697,M_44_B_D1900641697,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_45_B_D1900497942,M_45_B_D1900497942,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_45_B_D1900497951,M_45_B_D1900497951,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_49_B_D1900636683,M_49_B_D1900636683,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_55_B_D1900652885,M_55_B_D1900652885,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_59_B_D1900578530,M_59_B_D1900578530,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_61_B_D1900581365,M_61_B_D1900581365,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_61_B_D1900591105,M_61_B_D1900591105,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+M_65_B_D1900641267,M_65_B_D1900641267,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900416027,N_N_B_D1900416027,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900425806,N_N_B_D1900425806,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900425868,N_N_B_D1900425868,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900425897,N_N_B_D1900425897,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900426911,N_N_B_D1900426911,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900426913,N_N_B_D1900426913,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900426928,N_N_B_D1900426928,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900426952,N_N_B_D1900426952,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900426954,N_N_B_D1900426954,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900426956,N_N_B_D1900426956,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900427067,N_N_B_D1900427067,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900433479,N_N_B_D1900433479,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900433498,N_N_B_D1900433498,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900433605,N_N_B_D1900433605,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900435108,N_N_B_D1900435108,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900435749,N_N_B_D1900435749,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900435766,N_N_B_D1900435766,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900435785,N_N_B_D1900435785,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900488892,N_N_B_D1900488892,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900492206,N_N_B_D1900492206,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900492397,N_N_B_D1900492397,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900492991,N_N_B_D1900492991,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900497184,N_N_B_D1900497184,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900497195,N_N_B_D1900497195,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900497197,N_N_B_D1900497197,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900578519,N_N_B_D1900578519,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900578570,N_N_B_D1900578570,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900579142,N_N_B_D1900579142,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900579218,N_N_B_D1900579218,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900579397,N_N_B_D1900579397,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900580792,N_N_B_D1900580792,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900583931,N_N_B_D1900583931,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900586895,N_N_B_D1900586895,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900634465,N_N_B_D1900634465,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900636620,N_N_B_D1900636620,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900638462,N_N_B_D1900638462,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900638464,N_N_B_D1900638464,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900640305,N_N_B_D1900640305,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+N_N_B_D1900643015,N_N_B_D1900643015,healthy control,SLE and healthy,healthy control,GDNA_MULTIPLEX
+s1,s1,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s10,s10,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1000,s1000,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1001,s1001,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1002,s1002,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1003,s1003,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1004,s1004,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1005,s1005,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1006,s1006,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1010,s1010,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1018,s1018,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1019,s1019,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1020,s1020,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1023,s1023,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1024,s1024,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1025,s1025,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1027,s1027,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1028,s1028,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1030,s1030,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1035,s1035,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1036,s1036,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1038,s1038,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1040,s1040,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1041,s1041,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1042,s1042,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1045,s1045,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1046,s1046,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1048,s1048,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1049,s1049,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1051,s1051,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1052,s1052,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1054,s1054,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1055,s1055,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1058,s1058,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1059,s1059,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1060,s1060,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1061,s1061,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1064,s1064,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1065,s1065,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1066,s1066,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1067,s1067,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1068,s1068,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1069,s1069,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1070,s1070,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1071,s1071,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1073,s1073,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1074,s1074,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1076,s1076,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1078,s1078,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1081,s1081,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1082,s1082,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1085,s1085,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1086,s1086,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1088,s1088,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s109,s109,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1091,s1091,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1092,s1092,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1093,s1093,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1094,s1094,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1097,s1097,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s11,s11,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1101,s1101,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1102,s1102,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1105,s1105,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1106,s1106,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1107,s1107,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1109,s1109,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1110,s1110,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1111,s1111,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1112,s1112,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1113,s1113,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1116,s1116,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1119,s1119,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1121,s1121,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1122,s1122,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1123,s1123,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1124,s1124,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1127,s1127,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1128,s1128,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1129,s1129,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1130,s1130,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1131,s1131,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1132,s1132,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1135,s1135,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1136,s1136,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1137,s1137,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1138,s1138,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1140,s1140,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1142,s1142,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1143,s1143,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1144,s1144,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1146,s1146,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1147,s1147,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1149,s1149,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1150,s1150,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1151,s1151,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1157,s1157,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1158,s1158,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1159,s1159,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1160,s1160,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1161,s1161,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1162,s1162,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1167,s1167,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1168,s1168,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1169,s1169,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1171,s1171,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1172,s1172,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1175,s1175,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1176,s1176,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1177,s1177,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1179,s1179,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1180,s1180,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1181,s1181,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1182,s1182,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1183,s1183,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1184,s1184,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1185,s1185,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1188,s1188,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1193,s1193,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1194,s1194,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1197,s1197,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s12,s12,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1201,s1201,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1203,s1203,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1207,s1207,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1209,s1209,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1210,s1210,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1211,s1211,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1215,s1215,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1219,s1219,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1220,s1220,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1223,s1223,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1224,s1224,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1225,s1225,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1226,s1226,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1227,s1227,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1228,s1228,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1229,s1229,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1230,s1230,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1231,s1231,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1232,s1232,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1233,s1233,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1234,s1234,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1235,s1235,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1236,s1236,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1238,s1238,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1239,s1239,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1240,s1240,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1241,s1241,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1245,s1245,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1246,s1246,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1247,s1247,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1248,s1248,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1249,s1249,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1250,s1250,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1251,s1251,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1253,s1253,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1254,s1254,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1255,s1255,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1257,s1257,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1260,s1260,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1261,s1261,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1263,s1263,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1264,s1264,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1266,s1266,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1267,s1267,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1268,s1268,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1269,s1269,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1274,s1274,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1277,s1277,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1279,s1279,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1280,s1280,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1284,s1284,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1286,s1286,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1287,s1287,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1288,s1288,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1294,s1294,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1295,s1295,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1297,s1297,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1299,s1299,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s13,s13,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1300,s1300,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1302,s1302,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1303,s1303,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1304,s1304,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1305,s1305,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1306,s1306,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1307,s1307,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1308,s1308,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1313,s1313,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1316,s1316,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1319,s1319,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1321,s1321,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1322,s1322,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1323,s1323,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1324,s1324,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1325,s1325,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1326,s1326,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1328,s1328,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1329,s1329,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1330,s1330,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1333,s1333,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1336,s1336,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1337,s1337,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1339,s1339,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1341,s1341,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1342,s1342,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1343,s1343,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1347,s1347,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1348,s1348,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1349,s1349,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1351,s1351,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1352,s1352,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1353,s1353,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1355,s1355,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1356,s1356,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1358,s1358,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1359,s1359,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1361,s1361,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1363,s1363,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1364,s1364,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1367,s1367,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1368,s1368,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1369,s1369,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1370,s1370,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1371,s1371,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1373,s1373,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1375,s1375,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1376,s1376,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1377,s1377,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1378,s1378,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1379,s1379,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1382,s1382,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1384,s1384,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1385,s1385,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1386,s1386,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1388,s1388,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s139,s139,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1390,s1390,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1391,s1391,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1392,s1392,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1393,s1393,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1395,s1395,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1396,s1396,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1398,s1398,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s14,s14,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1401,s1401,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1403,s1403,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1404,s1404,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1406,s1406,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1408,s1408,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1409,s1409,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1412,s1412,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1413,s1413,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1414,s1414,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1417,s1417,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1418,s1418,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1420,s1420,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1421,s1421,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1422,s1422,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1423,s1423,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1424,s1424,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1427,s1427,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1428,s1428,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1430,s1430,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1431,s1431,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1433,s1433,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1438,s1438,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1440,s1440,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1442,s1442,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1443,s1443,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1444,s1444,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1447,s1447,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1448,s1448,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1451,s1451,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1453,s1453,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1455,s1455,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1456,s1456,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1459,s1459,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1462,s1462,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1464,s1464,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1465,s1465,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1467,s1467,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1468,s1468,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1469,s1469,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1470,s1470,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1472,s1472,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1475,s1475,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1476,s1476,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1478,s1478,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1480,s1480,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1482,s1482,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1483,s1483,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1484,s1484,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1485,s1485,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1486,s1486,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1487,s1487,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1488,s1488,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1489,s1489,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1490,s1490,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1491,s1491,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1493,s1493,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s15,s15,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1500,s1500,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1504,s1504,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1505,s1505,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1509,s1509,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1510,s1510,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1520,s1520,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1523,s1523,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1525,s1525,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1529,s1529,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1530,s1530,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1532,s1532,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1535,s1535,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1536,s1536,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1544,s1544,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1545,s1545,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1546,s1546,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1547,s1547,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1548,s1548,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1549,s1549,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1550,s1550,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1552,s1552,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1555,s1555,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1556,s1556,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1558,s1558,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1561,s1561,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1562,s1562,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1565,s1565,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1566,s1566,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1568,s1568,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1569,s1569,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1570,s1570,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1571,s1571,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1572,s1572,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1573,s1573,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1576,s1576,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1578,s1578,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1579,s1579,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1580,s1580,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1582,s1582,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1583,s1583,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1589,s1589,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1590,s1590,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1592,s1592,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1595,s1595,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1596,s1596,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1597,s1597,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1598,s1598,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1599,s1599,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s16,s16,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1600,s1600,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1604,s1604,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1605,s1605,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1606,s1606,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1607,s1607,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1608,s1608,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1609,s1609,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1610,s1610,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1612,s1612,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1613,s1613,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1614,s1614,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1615,s1615,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1624,s1624,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1626,s1626,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1628,s1628,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1629,s1629,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1630,s1630,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1631,s1631,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1632,s1632,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1635,s1635,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1639,s1639,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1641,s1641,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1642,s1642,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1643,s1643,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1644,s1644,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1645,s1645,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1651,s1651,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1652,s1652,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1653,s1653,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1655,s1655,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1656,s1656,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1658,s1658,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1660,s1660,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1661,s1661,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1662,s1662,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1663,s1663,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1664,s1664,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1665,s1665,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1666,s1666,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1669,s1669,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1673,s1673,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1674,s1674,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1675,s1675,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1676,s1676,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1680,s1680,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1681,s1681,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1683,s1683,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1684,s1684,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1685,s1685,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1686,s1686,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1687,s1687,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1688,s1688,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1690,s1690,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1691,s1691,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1692,s1692,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1693,s1693,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1695,s1695,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1696,s1696,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1697,s1697,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1698,s1698,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1699,s1699,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s17,s17,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1700,s1700,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1705,s1705,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1707,s1707,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1708,s1708,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1709,s1709,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1710,s1710,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1712,s1712,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1713,s1713,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1714,s1714,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1715,s1715,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1716,s1716,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1722,s1722,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1723,s1723,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1725,s1725,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1726,s1726,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1728,s1728,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1730,s1730,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1732,s1732,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1734,s1734,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1740,s1740,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1741,s1741,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1747,s1747,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1748,s1748,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1749,s1749,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1750,s1750,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1753,s1753,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1754,s1754,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1755,s1755,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1756_01,s1756_01,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1757_01,s1757_01,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1759,s1759,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1760_01,s1760_01,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1762_02,s1762_02,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1763_01,s1763_01,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1764_01,s1764_01,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1765,s1765,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1766,s1766,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1767,s1767,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1768,s1768,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1769,s1769,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1770,s1770,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1773,s1773,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1774,s1774,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1776,s1776,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1777,s1777,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1778,s1778,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1782,s1782,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1783,s1783,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1784,s1784,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1786,s1786,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1788,s1788,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1794,s1794,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1799,s1799,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s18,s18,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1800,s1800,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1801,s1801,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1829,s1829,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s1837,s1837,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s187,s187,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s22,s22,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s248,s248,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s26,s26,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s264,s264,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s28,s28,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s29,s29,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s294,s294,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s30,s30,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s32,s32,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s329,s329,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s33,s33,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s34,s34,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s345,s345,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s35,s35,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s362,s362,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s366,s366,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s368,s368,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s376,s376,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s386,s386,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s39,s39,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s396,s396,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s397,s397,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s398,s398,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s399,s399,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s4,s4,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s400,s400,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s403,s403,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s406,s406,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s407,s407,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s408,s408,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s409,s409,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s41,s41,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s410,s410,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s411,s411,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s412,s412,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s413,s413,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s418,s418,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s419,s419,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s421,s421,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s423,s423,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s425,s425,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s426,s426,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s427,s427,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s43,s43,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s430,s430,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s431,s431,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s434,s434,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s437,s437,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s439,s439,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s440,s440,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s443,s443,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s444,s444,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s447,s447,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s450,s450,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s451,s451,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s452,s452,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s453,s453,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s454,s454,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s455,s455,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s456,s456,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s457,s457,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s461,s461,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s462,s462,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s463,s463,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s465,s465,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s471,s471,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s472,s472,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s475,s475,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s476,s476,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s478,s478,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s48,s48,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s480,s480,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s487,s487,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s488,s488,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s492,s492,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s493,s493,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s494,s494,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s496,s496,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s497,s497,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s498,s498,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s499,s499,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s50,s50,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s502,s502,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s504,s504,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s505,s505,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s506,s506,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s507,s507,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s508,s508,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s51,s51,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s512,s512,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s513,s513,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s515,s515,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s516,s516,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s517,s517,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s518,s518,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s520,s520,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s521,s521,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s522,s522,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s523,s523,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s524,s524,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s525,s525,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s526,s526,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s527,s527,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s528,s528,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s529,s529,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s530,s530,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s531,s531,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s534,s534,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s535,s535,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s537,s537,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s538,s538,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s539,s539,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s54,s54,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s540,s540,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s541,s541,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s542,s542,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s543,s543,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s545,s545,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s546,s546,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s547,s547,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s548,s548,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s549,s549,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s55,s55,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s550,s550,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s551,s551,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s552,s552,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s553,s553,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s554,s554,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s555,s555,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s556,s556,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s557,s557,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s558,s558,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s559,s559,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s56,s56,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s560,s560,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s561,s561,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s562,s562,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s564,s564,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s565,s565,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s566,s566,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s567,s567,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s568,s568,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s569,s569,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s570,s570,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s571,s571,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s572,s572,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s573,s573,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s575,s575,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s576,s576,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s579,s579,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s580,s580,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s581,s581,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s582,s582,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s584,s584,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s585,s585,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s586,s586,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s587,s587,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s588,s588,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s590,s590,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s592,s592,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s593,s593,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s594,s594,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s596,s596,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s597,s597,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s598,s598,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s599,s599,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s6,s6,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s600,s600,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s601,s601,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s604,s604,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s605,s605,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s608,s608,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s609,s609,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s612,s612,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s614,s614,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s615,s615,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s616,s616,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s617,s617,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s619,s619,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s620,s620,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s621,s621,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s624,s624,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s625,s625,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s626,s626,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s627,s627,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s631,s631,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s634,s634,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s635,s635,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s639,s639,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s640,s640,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s641,s641,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s642,s642,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s643,s643,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s644,s644,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s645,s645,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s646,s646,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s647,s647,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s648,s648,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s649,s649,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s653,s653,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s654,s654,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s656,s656,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s657,s657,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s658,s658,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s659,s659,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s66,s66,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s660,s660,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s661,s661,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s662,s662,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s663,s663,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s664,s664,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s665,s665,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s666,s666,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s667,s667,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s668,s668,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s669,s669,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s670,s670,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s671,s671,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s672,s672,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s673,s673,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s675,s675,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s676,s676,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s677,s677,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s678,s678,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s680,s680,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s681,s681,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s683,s683,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s684,s684,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s685,s685,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s688,s688,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s690,s690,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s695,s695,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s697,s697,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s698,s698,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s699,s699,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s700,s700,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s701,s701,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s703,s703,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s704,s704,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s705,s705,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s707,s707,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s708,s708,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s709,s709,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s711,s711,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s712,s712,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s713,s713,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s716,s716,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s717,s717,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s719,s719,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s722,s722,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s724,s724,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s725,s725,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s726,s726,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s727,s727,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s728,s728,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s729,s729,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s73,s73,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s730,s730,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s732,s732,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s733,s733,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s736,s736,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s737,s737,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s738,s738,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s739,s739,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s743,s743,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s745,s745,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s746,s746,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s747,s747,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s748,s748,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s749,s749,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s750,s750,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s751,s751,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s753,s753,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s754,s754,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s758,s758,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s759,s759,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s76,s76,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s760,s760,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s761,s761,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s763,s763,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s764,s764,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s766,s766,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s771,s771,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s772,s772,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s773,s773,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s774,s774,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s775,s775,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s776,s776,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s777,s777,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s778,s778,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s779,s779,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s780,s780,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s781,s781,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s782,s782,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s783,s783,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s784,s784,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s787,s787,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s788,s788,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s789,s789,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s792,s792,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s793,s793,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s795,s795,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s796,s796,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s797,s797,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s800,s800,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s801,s801,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s802,s802,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s803,s803,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s804,s804,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s806,s806,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s807,s807,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s808,s808,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s810,s810,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s812,s812,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s813,s813,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s819,s819,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s820,s820,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s825,s825,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s826,s826,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s827,s827,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s828,s828,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s829,s829,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s83,s83,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s830,s830,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s832,s832,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s833,s833,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s834,s834,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s839,s839,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s840,s840,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s845,s845,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s857,s857,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s862,s862,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s864,s864,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s866,s866,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s867,s867,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s869,s869,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s871,s871,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s873,s873,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s875,s875,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s876,s876,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s88,s88,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s887,s887,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s888,s888,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s889,s889,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s894,s894,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s9,s9,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s902,s902,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s906,s906,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s910,s910,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s911,s911,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s915,s915,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s916,s916,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s917,s917,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s918,s918,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s919,s919,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s920,s920,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s921,s921,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s925,s925,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s929,s929,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s930,s930,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s934,s934,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s942,s942,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s947,s947,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s948,s948,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s950,s950,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s951,s951,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s952,s952,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s953,s953,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s954,s954,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s955,s955,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s956,s956,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s958,s958,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s959,s959,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s960,s960,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s961,s961,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s962,s962,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s963,s963,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s964,s964,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s965,s965,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s966,s966,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s967,s967,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s968,s968,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s969,s969,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s970,s970,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s971,s971,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s974,s974,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s975,s975,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s977,s977,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s978,s978,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s980,s980,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s981,s981,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s982,s982,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s986,s986,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s987,s987,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s988,s988,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s991,s991,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s993,s993,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s994,s994,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s996,s996,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX
+s998,s998,SLE,SLE and healthy,SLE,GDNA_MULTIPLEX

@@ -1,0 +1,22 @@
+sample_id,patient_id,label,disease,clinical_status,cohort,timepoint,treatment,cancer_type,age,protocol_family
+1862_D0,1862,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Pembrolizumab,melanoma,70-79,GDNA_MULTIPLEX
+2023_D0,2023,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Ipilimumab > Pembrolizumab,melanoma,60-69,GDNA_MULTIPLEX
+2228_D0,2228,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Prior IO,melanoma,60-69,GDNA_MULTIPLEX
+2231_MNC_D0,2231_MNC,metastatic melanoma,melanoma,metastatic melanoma,,D0,,melanoma,,GDNA_MULTIPLEX
+2233_D0,2233,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Ipilimumab > Pembrolizumab,melanoma,60-69,GDNA_MULTIPLEX
+2241_MNC_D0,2241_MNC,metastatic melanoma,melanoma,metastatic melanoma,,D0,,melanoma,,GDNA_MULTIPLEX
+2267_D0,2267,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Prior IO,melanoma,60-69,GDNA_MULTIPLEX
+2275_D0,2275,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Prior IO,melanoma,50-59,GDNA_MULTIPLEX
+2277_MNC_D0,2277_MNC,metastatic melanoma,melanoma,metastatic melanoma,,D0,,melanoma,,GDNA_MULTIPLEX
+2283_D0,2283,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Nivolumab,melanoma,60-69,GDNA_MULTIPLEX
+2331_D0,2331,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Pembrolizumab,melanoma,70-79,GDNA_MULTIPLEX
+2342_D0,2342,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,no,D0,IO naive,melanoma,40-49,GDNA_MULTIPLEX
+2348_D0,2348,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,no,D0,IO naive,melanoma,30-39,GDNA_MULTIPLEX
+2350_D0,2350,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,no,D0,IO naive,melanoma,40-49,GDNA_MULTIPLEX
+2351_D0,2351,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Pembrolizumab,melanoma,50-59,GDNA_MULTIPLEX
+2364_D0,2364,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Prior IO,melanoma,60-69,GDNA_MULTIPLEX
+2377_D0,2377,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Nivolumab,melanoma,50-59,GDNA_MULTIPLEX
+2396_D0,2396,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Pembrolizumab,melanoma,50-59,GDNA_MULTIPLEX
+2424_D0,2424,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Pembrolizumab,melanoma,50-59,GDNA_MULTIPLEX
+2466_D0,2466,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Pembrolizumab,melanoma,30-39,GDNA_MULTIPLEX
+2475_D0,2475,stage IV cutaneous melanoma,melanoma,stage IV cutaneous melanoma,yes,D0,Nivolumab,melanoma,70-79,GDNA_MULTIPLEX

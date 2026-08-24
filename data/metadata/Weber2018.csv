@@ -1,0 +1,76 @@
+sample_id,patient_id,label,disease,clinical_status,timepoint,treatment,response,cancer_type,protocol_family
+11408_TCRB,Subject 64067,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11410_TCRB,Subject 64069,Stable Disease,melanoma,Stable Disease,Screen,nivolumab/ipilimumab sequence,Stable Disease,melanoma,GDNA_MULTIPLEX
+11414_TCRB,Subject 64102,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11416_TCRB,Subject 64105,metastatic melanoma,melanoma,metastatic melanoma,Screen,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11417_TCRB,Subject 64106,metastatic melanoma,melanoma,metastatic melanoma,Screen,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11419_TCRB,Subject 64067,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11420_TCRB,Subject 64069,Stable Disease,melanoma,Stable Disease,Week 13,nivolumab/ipilimumab sequence,Stable Disease,melanoma,GDNA_MULTIPLEX
+11424_TCRB,Subject 64102,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11426_TCRB,Subject 64105,metastatic melanoma,melanoma,metastatic melanoma,Week 13,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11428_TCRB,Subject 64106,metastatic melanoma,melanoma,metastatic melanoma,Week 13,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11429_TCRB,Subject 64127,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11429_TCRB_02,Subject 64127,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11430_TCRB,Subject 64108,metastatic melanoma,melanoma,metastatic melanoma,Week 13,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11431_TCRB,Subject 64125,metastatic melanoma,melanoma,metastatic melanoma,Screen,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11432_TCRB,Subject 64126,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11432_TCRB_02,Subject 64126,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11434_TCRB,Subject 64133,metastatic melanoma,melanoma,metastatic melanoma,Screen,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11435_TCRB,11435_TCRB,metastatic melanoma,melanoma,metastatic melanoma,,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11436_TCRB,Subject 64137,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11437_TCRB,11437_TCRB,metastatic melanoma,melanoma,metastatic melanoma,,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11438_TCRB,Subject 64139,metastatic melanoma,melanoma,metastatic melanoma,Screen,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11439_TCRB,Subject 64141,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11439_TCRB_02,Subject 64141,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11440_TCRB,Subject 64140,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11441_TCRB,Subject 64144,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11442_TCRB,Subject 64142,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11444_TCRB,Subject 64146,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11445_TCRB,Subject 64147,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11446_TCRB,Subject 64105,metastatic melanoma,melanoma,metastatic melanoma,Week 25,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11449_TCRB,Subject 64148,Stable Disease,melanoma,Stable Disease,Screen,nivolumab/ipilimumab sequence,Stable Disease,melanoma,GDNA_MULTIPLEX
+11450_TCRB,Subject 64149,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11451_TCRB,Subject 64130,metastatic melanoma,melanoma,metastatic melanoma,Week 13,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11453_TCRB,Subject 64155,Complete Response,melanoma,Complete Response,Screen,nivolumab/ipilimumab sequence,Complete Response,melanoma,GDNA_MULTIPLEX
+11456_TCRB,Subject 64157,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11456_TCRB_02,Subject 64157,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11457_TCRB,Subject 64133,metastatic melanoma,melanoma,metastatic melanoma,Week 13,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11458_TCRB,Subject 64160,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11460_TCRB,Subject 64159,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11464_TCRB,Subject 64137,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11464_TCRB_02,Subject 64137,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11465_TCRB,Subject 64139,metastatic melanoma,melanoma,metastatic melanoma,Week 13,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11466_TCRB,Subject 64140,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11469_TCRB,Subject 64142,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11470_TCRB,Subject 64170,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11471_TCRB,Subject 64171,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11473_TCRB,Subject 64147,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11475_TCRB,Subject 64176,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11476_TCRB,Subject 64125,metastatic melanoma,melanoma,metastatic melanoma,Week 25,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11477_TCRB,Subject 64148,Stable Disease,melanoma,Stable Disease,Week 13,nivolumab/ipilimumab sequence,Stable Disease,melanoma,GDNA_MULTIPLEX
+11478_TCRB,Subject 64174,Progressive Disease,melanoma,Progressive Disease,Screen,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11479_TCRB,Subject 64175,Partial Response,melanoma,Partial Response,Screen,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11480_TCRB,Subject 64149,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11481_TCRB,Subject 64130,metastatic melanoma,melanoma,metastatic melanoma,Week 25,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11483_TCRB,Subject 64155,Complete Response,melanoma,Complete Response,Week 13,nivolumab/ipilimumab sequence,Complete Response,melanoma,GDNA_MULTIPLEX
+11484_TCRB,Subject 64156,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11484_TCRB_02,Subject 64156,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11485_TCRB,Subject 64133,metastatic melanoma,melanoma,metastatic melanoma,Week 25,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11486_TCRB,Subject 64160,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11488_TCRB,Subject 64158,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11489_TCRB,Subject 64159,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11491_TCRB,Subject 64137,Partial Response,melanoma,Partial Response,Week 25,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11492_TCRB,Subject 64140,Partial Response,melanoma,Partial Response,Week 25,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11494_TCRB,Subject 64142,Progressive Disease,melanoma,Progressive Disease,Week 25,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11495_TCRB,Subject 74170,metastatic melanoma,melanoma,metastatic melanoma,Week 13,nivolumab/ipilimumab sequence,metastatic melanoma,melanoma,GDNA_MULTIPLEX
+11496_TCRB,Subject 64146,Partial Response,melanoma,Partial Response,Week 25,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11498_TCRB,Subject 64147,Partial Response,melanoma,Partial Response,Week 25,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11499_TCRB,Subject 64176,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11500_TCRB,Subject 64175,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11500_TCRB_02,Subject 64175,Partial Response,melanoma,Partial Response,Week 13,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11501_TCRB,Subject 64174,Progressive Disease,melanoma,Progressive Disease,Week 13,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11505_TCRB,Subject 64159,Partial Response,melanoma,Partial Response,Week 25,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11508_TCRB,Subject 64170,Partial Response,melanoma,Partial Response,Week 25,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX
+11509_TCRB,Subject 64176,Progressive Disease,melanoma,Progressive Disease,Week 25,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11510_TCRB,Subject 64174,Progressive Disease,melanoma,Progressive Disease,Week 25,nivolumab/ipilimumab sequence,Progressive Disease,melanoma,GDNA_MULTIPLEX
+11511_TCRB,Subject 64175,Partial Response,melanoma,Partial Response,Week 25,nivolumab/ipilimumab sequence,Partial Response,melanoma,GDNA_MULTIPLEX

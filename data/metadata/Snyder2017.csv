@@ -1,0 +1,94 @@
+sample_id,patient_id,label,disease,clinical_status,timepoint,treatment,response,cancer_type,protocol_family
+0040-14-090-9A,0040,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+0471-14-090-6A,0471,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+0471-14-090-6B,0471,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+0471-14-090-6C,0471,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+0522-14-090-15A,0522,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+0522-14-090-15B,0522,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+0522-14-090-15C,0522,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+0979-14-090-12A,0979,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+0979-14-090-12B,0979,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+1233-14-090-1A,1233,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+1233-14-090-1B,1233,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+1233-14-090-1C,1233,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+1249-14-090-16A,1249,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+1249-14-090-16B,1249,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+1849-14-090-28A,1849,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+1849-14-090-28B,1849,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+1849-14-090-28C,1849,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+1994-14-090-4A,1994,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+1994-14-090-4B,1994,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+1994-14-090-4C,1994,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+2131-14-090-26A,2131,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2131-14-090-26B,2131,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2131-14-090-26C,2131,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2278-14-090-7A,2278,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2278-14-090-7B,2278,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2278-14-090-7C,2278,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2389-14-090-21A,2389,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2389-14-090-21B,2389,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2389-14-090-21C,2389,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3A,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3B,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3C,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3D,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,D,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3E,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,E,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3F,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,F,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3G,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,G,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2849-14-090-3H,2849,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,H,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2937-14-090-23A,2937,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+2937-14-090-23B,2937,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+3529-14-090-2A,3529,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+3529-14-090-2B,3529,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+3529-14-090-2C,3529,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+4072-14-090-20A,4072,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+4072-14-090-20B,4072,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+4072-14-090-20C,4072,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+5037-14-090-29A,5037,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+5037-14-090-29B,5037,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+5037-14-090-29C,5037,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+5122-14-090-8A,5122,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+5122-14-090-8B,5122,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+5122-14-090-8C,5122,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+5338-14-090-13A,5338,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+5338-14-090-13B,5338,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+5338-14-090-13C,5338,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+6229-14-090-18A,6229,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+6229-14-090-18B,6229,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+6229-14-090-18C,6229,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+6229-14-090-18D,6229,CR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,D,atezolizumab,CR,urothelial cancer,GDNA_MULTIPLEX
+6428-14-090-11A,6428,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+6428-14-090-11B,6428,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+6428-14-090-11C,6428,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+6800-14-090-14A,6800,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+6800-14-090-14B,6800,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+6800-14-090-14C,6800,PR,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PR,urothelial cancer,GDNA_MULTIPLEX
+7577-14-090-22A,7577,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7577-14-090-22B,7577,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7577-14-090-22C,7577,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7592-14-090-17A,7592,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7592-14-090-17B,7592,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7592-14-090-17C,7592,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7729-14-090-27A,7729,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7729-14-090-27B,7729,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7729-14-090-27C,7729,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+7729-14-090-27D,7729,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,D,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+8214-14-090-5A,8214,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+8214-14-090-5B,8214,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+8214-14-090-5C,8214,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+8214-14-090-5D,8214,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,D,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+8728-14-090-25A,8728,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+8728-14-090-25B,8728,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+8728-14-090-25C,8728,PD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,PD,urothelial cancer,GDNA_MULTIPLEX
+9517-14-090-19A,9517,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+9517-14-090-19B,9517,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+9517-14-090-19C,9517,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+9517-14-090-19D,9517,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,D,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+9517-14-090-19E,9517,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,E,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+9517-14-090-19F,9517,SD,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,F,atezolizumab,SD,urothelial cancer,GDNA_MULTIPLEX
+9723-14-090-24A,9723,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+9854-14-090-30A,9854,metastatic urothelial cancer,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,,urothelial cancer,GDNA_MULTIPLEX
+9881-14-090-10A,9881,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,A,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+9881-14-090-10B,9881,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,B,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+9881-14-090-10C,9881,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,C,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX
+9881-14-090-10D,9881,Only scanned at baseline,metastatic urothelial cancer treated with atezolizumab,metastatic urothelial cancer,D,atezolizumab,Only scanned at baseline,urothelial cancer,GDNA_MULTIPLEX

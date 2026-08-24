@@ -1,0 +1,23 @@
+sample_id,patient_id,label,disease,clinical_status,species,chain,protocol_family,comparison_group,batch,sequencing_instrument,geo_accession
+SEQTR_Replicate1,Donor1,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR,original,Illumina MiniSeq,GSM7061279
+SEQTR_Replicate2,Donor1,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR,original,Illumina MiniSeq,GSM7061280
+SEQTR_Replicate3,Donor1,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR,original,Illumina MiniSeq,GSM7061281
+ImmunoSEQ_Replicate1,Donor1,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,GDNA_MULTIPLEX,ImmunoSEQ,original,Illumina HiSeq 4000,GSM7061282
+ImmunoSEQ_Replicate2,Donor1,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,GDNA_MULTIPLEX,ImmunoSEQ,original,Illumina HiSeq 4000,GSM7061283
+ImmunoSEQ_Replicate3,Donor1,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,GDNA_MULTIPLEX,ImmunoSEQ,original,Illumina HiSeq 4000,GSM7061284
+SEQTR_Replicate1_bis,Donor2,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR,bis,Illumina MiniSeq,GSM7061285
+SEQTR_Replicate2_bis,Donor2,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR,bis,Illumina MiniSeq,GSM7061286
+ImmunoSEQ_Replicate1_bis,Donor2,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,GDNA_MULTIPLEX,ImmunoSEQ,bis,Illumina HiSeq 4000,GSM7061287
+ImmunoSEQ_Replicate2_bis,Donor2,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,GDNA_MULTIPLEX,ImmunoSEQ,bis,Illumina HiSeq 4000,GSM7061288
+SEQTR_vs_RACE_Replicate1,Donor3,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR_vs_RACE,original,Illumina MiSeq,GSM7061289
+SEQTR_vs_RACE_Replicate2,Donor3,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR_vs_RACE,original,Illumina MiSeq,GSM7061290
+SEQTR_vs_RACE_Replicate3,Donor3,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR_vs_RACE,original,Illumina MiSeq,GSM7061291
+RACE_vs_SEQTR_Replicate1,Donor3,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_5RACE,RACE_vs_SEQTR,original,Illumina MiSeq,GSM7061292
+RACE_vs_SEQTR_Replicate2,Donor3,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_5RACE,RACE_vs_SEQTR,original,Illumina MiSeq,GSM7061293
+RACE_vs_SEQTR_Replicate3,Donor3,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_5RACE,RACE_vs_SEQTR,original,Illumina MiSeq,GSM7061294
+SEQTR_vs_RACE_Replicate1_bis,Donor4,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR_vs_RACE,bis,NextSeq 1000,GSM7061295
+SEQTR_vs_RACE_Replicate2_bis,Donor4,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR_vs_RACE,bis,NextSeq 1000,GSM7061296
+SEQTR_vs_RACE_Replicate3_bis,Donor4,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_SEQTR,SEQTR_vs_RACE,bis,NextSeq 1000,GSM7061297
+RACE_vs_SEQTR_Replicate1_bis,Donor4,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_5RACE,RACE_vs_SEQTR,bis,Illumina MiSeq,GSM7061298
+RACE_vs_SEQTR_Replicate2_bis,Donor4,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_5RACE,RACE_vs_SEQTR,bis,Illumina MiSeq,GSM7061299
+RACE_vs_SEQTR_Replicate3_bis,Donor4,healthy,healthy technical benchmark,healthy,Homo sapiens,TRB,RNA_5RACE,RACE_vs_SEQTR,bis,Illumina MiSeq,GSM7061300

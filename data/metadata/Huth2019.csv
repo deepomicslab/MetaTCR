@@ -1,0 +1,26 @@
+sample_id,patient_id,label,disease,clinical_status,protocol_family
+N01,N01,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N02,N02,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N03,N03,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N04,N04,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N05,N05,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N06,N06,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N07,N07,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N08,N08,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+N09,N09,CMV-negative,CMV serostatus,CMV-negative,RNA_MULTIPLEX
+P01,P01,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P02,P02,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P03,P03,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P04,P04,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P05,P05,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P06,P06,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P07,P07,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P08,P08,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P09,P09,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P10,P10,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P11,P11,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P12,P12,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P13,P13,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P14,P14,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P15,P15,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX
+P16,P16,CMV-positive,CMV serostatus,CMV-positive,RNA_MULTIPLEX

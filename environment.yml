@@ -1,4 +1,4 @@
-name: hmz_torch_new
+name: metatcr
 channels:
   - conda-forge
   - nvidia
